@@ -1,3 +1,4 @@
+
 let dropDowns = document.querySelectorAll(".dropdown");
 let array = [...dropDowns];
 array.forEach((item) => {
